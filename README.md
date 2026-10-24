@@ -101,6 +101,8 @@ Notes:
 
 If you use this pipeline, please cite the manuscript (citation to be updated with the final DOI on acceptance) and the underlying data resources (Dryad doi:10.5061/dryad.vmcvdnd3q, doi:10.5061/dryad.0gb5mkm04, CattleGTEx). See `CITATION.cff`.
 
+Code repository: https://github.com/ChangxianWu/public-data-MR-dairy-cattle-fertility
+
 ## License
 
 Code: MIT (see `LICENSE`). The upstream data are redistributed by their providers under their own terms (Dryad CC0 at the time of access); this repository includes only two small derived intermediates (`data/derived/`) and no raw data.

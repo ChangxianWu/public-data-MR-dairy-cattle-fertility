@@ -13,6 +13,7 @@ authors:
   - family-names: Ma
     given-names: Lingxi
     email: 6961337@qq.com
+repository-code: "https://github.com/ChangxianWu/public-data-MR-dairy-cattle-fertility"
 version: 1.0.0
 date-released: "2026-10-24"
 license: MIT
