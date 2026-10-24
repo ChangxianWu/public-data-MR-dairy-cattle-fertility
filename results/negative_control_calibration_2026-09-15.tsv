@@ -1,0 +1,4 @@
+scenario	n	p_lt_0_05_rate	median_p
+Random 10-SNP, MAF-matched	1000	0.0510	0.4871
+Pseudo-exposure, real IV structure	1000	0.0990	0.1584
+Pseudo-exposure excl. chr14 peak	1000	0.0340	0.2583

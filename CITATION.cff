@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and the underlying data resources."
+title: "Public-data two-sample Mendelian randomization of dairy production and conformation traits on female fertility in US Holstein cattle: analysis code and results"
+authors:
+  - family-names: Wu
+    given-names: Changxian
+  - family-names: Wang
+    given-names: Min
+  - family-names: Su
+    given-names: Hong
+  - family-names: Zheng
+    given-names: Xiaoman
+  - family-names: Ma
+    given-names: Lingxi
+    email: 6961337@qq.com
+version: 1.0.0
+date-released: "2026-10-24"
+license: MIT
+abstract: >-
+  Analysis code and published result tables for a cross-cohort two-sample
+  Mendelian randomization study of dairy production/conformation traits on
+  female fertility in US Holstein cattle, built exclusively from public
+  summary statistics, with per-SNP allele-strand verification, Monte-Carlo
+  calibration and power-based effect-size bounds.
+keywords:
+  - Mendelian randomization
+  - dairy cattle
+  - female fertility
+  - allele harmonisation
+  - reproducibility

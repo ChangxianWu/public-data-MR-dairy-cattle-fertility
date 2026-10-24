@@ -1,0 +1,60 @@
+{
+ "generated": "2026-09-16 (rev4: mammary nominal/coloc snapshot inputs added)",
+ "files": [
+  {
+   "file": "vmcvdnd3q__finemapping_summary_stats_dairy_2025.csv",
+   "size": 106477769,
+   "sha256": "71cad2766aca6920192470bc42364ea7dd79637ff1841637fef2e9132e7e211e"
+  },
+  {
+   "file": "0gb5mkm04__File_S1_EMMAX_RI_extracted.csv",
+   "size": 546690599,
+   "sha256": "fea668f20349254fa90c7a606baa42437bdc2520f6e53916ba7bdf4a785ecfae"
+  },
+  {
+   "file": "vmcvdnd3q__Supplemental_Tables.xlsx",
+   "size": 5119378,
+   "sha256": "7a021b4aff3b676007f06f8f2bb1612de290a314892b60d3a5d4d759e7511934"
+  },
+  {
+   "file": "cattlegtex_Mammary_Gland_eQTL.tar.gz",
+   "size": 1339313449,
+   "sha256": "1a3acc1bba21a9b85c90dec7d2e46b834ccc73b179ca56877ba3bc9d50f03b8f"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/Mammary_Gland/mammary_hits_for_coloc.json",
+   "size": 17523,
+   "sha256": "0ea8135b239f8fc33dd464bf7a69998aa9d7aa540ed381450d00809278d8b75b"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/nominal_subset/Mammary_Gland_nominal_eQTL/mammary_lead250k_eQTL_2026-09-16.json",
+   "size": 1490828,
+   "sha256": "fd987e4894bbf8d58b67122ac2e6bb71140ba2a1bb1e4f804e86556dc98e08b6"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/nominal_subset/Mammary_Gland_nominal_eQTL/Mammary_Gland.cis_qtl_pairs.1.txt.gz",
+   "size": 49457474,
+   "sha256": "c9f05fff5d0f4b2298ad0629d89dec8a50bc6ae50afa164496f6399b4fb4c41e"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/nominal_subset/Mammary_Gland_nominal_eQTL/Mammary_Gland.cis_qtl_pairs.5.txt.gz",
+   "size": 68026850,
+   "sha256": "92f159b82a75d61a54c45c71a147e7540267f5c2483c901516dfb01c618ea448"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/nominal_subset/Mammary_Gland_nominal_eQTL/Mammary_Gland.cis_qtl_pairs.7.txt.gz",
+   "size": 72750835,
+   "sha256": "e9b27adde7a44772cf49b24445005e17d16fa45c47d5f89eb031f865a42c4ebf"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/nominal_subset/Mammary_Gland_nominal_eQTL/Mammary_Gland.cis_qtl_pairs.18.txt.gz",
+   "size": 97963787,
+   "sha256": "0b279caa2dca9a121b32efca5b1a45162c5580bce073cdde9475a5d367e14e34"
+  },
+  {
+   "file": "cattlegtex_mammary_eqtl/Mammary_Gland/Mammary_Gland_significant_eQTL.txt.gz",
+   "size": 141304653,
+   "sha256": "b8585842f492d383a2645962837b0465240013dfce80cfac7e3158d782e91c96"
+  }
+ ]
+}
